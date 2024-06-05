@@ -12,7 +12,7 @@ git clone https://github.com/o-sec/HashCrack.git
 ```
 usage : Hashcrack.py <hash>  <wordlist>
 ```
-<img src='' />
+<img src='https://raw.githubusercontent.com/o-sec/HashCrack/main/screenshot.png' />
 
 ### disclaimer :
 i am not responsable for whatever you do with this tool !
